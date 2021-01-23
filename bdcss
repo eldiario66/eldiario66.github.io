@@ -20,6 +20,4 @@ a:active {
 }
 
 body {
-	width: 10vw;
-	height: 100%;
 }
